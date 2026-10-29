@@ -1,0 +1,18 @@
+{
+  "source_url": "https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running",
+  "source_filename": "TWO_CENTURIES_OF_UM_RACES.csv",
+  "source_bytes": 827825781,
+  "source_sha256": "4f0ad1a36533db26c08ab1342318198dc731811bd4fafb4069e1f9424cc7a798",
+  "source_rows": 7461195,
+  "scope_rows": 26524,
+  "scope_sha256": "483124b860054fd0b14fba8702b7231abd3f1ad8bc58ac79a4ce97e7ae2bc382",
+  "scope": {
+    "event_country": "USA",
+    "year": 2020,
+    "distances": [
+      "50km",
+      "50mi"
+    ]
+  },
+  "scope_policy": "All 13 original columns, source order and raw values retained; only rows filtered."
+}

@@ -1,0 +1,2 @@
+# Keep files byte-for-byte: data/manifest.json records the SHA-256 of the input CSV.
+* -text

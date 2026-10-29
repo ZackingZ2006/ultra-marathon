@@ -1,0 +1,21 @@
+{
+  "input_sha256": "483124b860054fd0b14fba8702b7231abd3f1ad8bc58ac79a4ce97e7ae2bc382",
+  "loaded_rows": 26524,
+  "scope_rows": 26524,
+  "analysis_rows": 26524,
+  "source_ids": 21594,
+  "race_editions": 502,
+  "ambiguous_ids": 255,
+  "identity_conflict_rows": 687,
+  "missing_age_rows": 235,
+  "filter_recovered_rows": 434,
+  "quarantined_rows": 0,
+  "max_speed_difference_kmh": 0.0004999999999997229,
+  "environment": {
+    "Python": "3.13.9",
+    "pandas": "2.3.3",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.6"
+  },
+  "checks": "Row totals, grouping totals, date formats and speed-time reconciliation passed."
+}
