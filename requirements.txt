@@ -1,0 +1,7 @@
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.6
+ipython>=9,<10
+nbformat>=5,<6
+jupyterlab>=4,<5
+jinja2>=3.1,<4
